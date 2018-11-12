@@ -1,3 +1,3 @@
-# Clique para fazer o deploy no Heroku
+# Clique para fazer o deploy desse template no Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
