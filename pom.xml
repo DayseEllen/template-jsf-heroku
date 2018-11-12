@@ -18,9 +18,24 @@
             <artifactId>primefaces</artifactId>
             <version>6.2</version>
         </dependency>
+        
+        
+        <dependency>
+            <groupId>javax</groupId>
+            <artifactId>javaee-web-api</artifactId>
+            <version>7.0</version>
+            <scope>provided</scope>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/javax.faces/jsf-api -->
+        <dependency>
+            <groupId>javax.faces</groupId>
+            <artifactId>jsf-api</artifactId>
+            <version>2.1</version>
+            <scope>provided</scope>
+        </dependency>
 
 
-        <!-- JSF 2 -->
+        <!-- JSF 2 
         <dependency>
             <groupId>com.sun.faces</groupId>
             <artifactId>jsf-api</artifactId>
@@ -44,6 +59,8 @@
             <artifactId>jsp-api</artifactId>
             <version>2.1</version>
         </dependency>
+        
+        -->
 
         <!-- EL -->
         <dependency>
